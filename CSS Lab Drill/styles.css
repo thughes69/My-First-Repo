@@ -1,0 +1,82 @@
+.box {
+margin: 10px;
+padding: 3px 3px 3px 3px; 
+border: 2px solid #d22929;
+border-radius: 3px;
+display:inline-block;
+width: 20%;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightgray;
+    text-align: center;
+}
+h2, p, .readme-wapper {
+    text-align: center;
+}
+h2 {
+text-decoration: underline;
+color:purple;
+text-align: center
+}
+
+ a {
+text-decoration: unset;
+color: green;
+}
+:hover {
+    font: bold;
+           
+    }
+ span{
+     color: rgb(98, 0, 255);
+     font-weight: bolder; 
+ }
+     #Box1 {
+         background-color: coral;
+     }
+     #Box2 {
+         background-color: crimson;
+         position: absolute;
+
+     }
+     #Box3 {
+         background-color: cornflowerblue;
+     }
+     #Box4 {
+         background-color: deeppink;
+     }
+     .Russell{
+         width: 8px;
+                 height: 1px;
+                 background-color: darkgreen;
+         position: left;
+                 }
+                 h1 {
+                     color: brown;
+                 }
+                 .Favorite {
+                     color: darkorange; 
+                                     }
+                                     .Football {
+color: aquamarine;
+                                     }
+                                     #Show3 {
+                                         color: darkviolet;
+                                     }
+                                     #Show4 {
+                                         color: fuchsia;
+                                     }
+                                     #Show5 {
+                                         color: darkorange;
+                                     }
+                                     #Show2 {
+                                         color: firebrick;
+                                     }
+                                     #Show1 {
+                                         color: gold;
+                                     }
+                                     div{
+                                         border: 10em solid black;
+
+                                     }
