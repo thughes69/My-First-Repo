@@ -1,9 +1,9 @@
 .box {
 margin: 10px;
-padding: 3px 3px 3px 3px; 
-border: 2px solid #d22929;
+padding: 6px 6px 6px 6px; 
+border: 3px solid #d22929;
 border-radius: 3px;
-display:inline-block;
+display:block;
 width: 20%;
 }
 body {
@@ -34,17 +34,24 @@ color: green;
  }
      #Box1 {
          background-color: coral;
+         height: 3px;
+                  width: 3px;
      }
      #Box2 {
          background-color: crimson;
          position: absolute;
-
+         height: 3px;
+         width: 3px;
      }
      #Box3 {
          background-color: cornflowerblue;
+         height: 3px;
+         width: 3px;
      }
      #Box4 {
          background-color: deeppink;
+         height: 3px;
+         width: 3px;
      }
      .Russell{
          width: 8px;
@@ -77,6 +84,6 @@ color: aquamarine;
                                          color: gold;
                                      }
                                      div{
-                                         border: 10em solid black;
+                                         border: 2px solid black;
 
                                      }
