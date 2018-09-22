@@ -4,7 +4,7 @@ var sum = 4 + 5;
 
 // Check whether name starts with letter after 'L'
 if (name.charCodeAt(0)> 76) {
-    alert('Back od Line!')
+    alert('Back of Line!')
 } else {
     alert('Next!')
 };
